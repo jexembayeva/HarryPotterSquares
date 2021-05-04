@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gaukhar\\Source\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj": {}
+    "C:\\Users\\Gaukhar\\Source\\Repos\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gaukhar\\Source\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj": {
+    "C:\\Users\\Gaukhar\\Source\\Repos\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gaukhar\\Source\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj",
+        "projectUniqueName": "C:\\Users\\Gaukhar\\Source\\Repos\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj",
         "projectName": "HarryPotterSquares",
-        "projectPath": "C:\\Users\\Gaukhar\\Source\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj",
+        "projectPath": "C:\\Users\\Gaukhar\\Source\\Repos\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj",
         "packagesPath": "C:\\Users\\Gaukhar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gaukhar\\Source\\HarryPotterSquares\\HarryPotterSquares\\obj\\",
+        "outputPath": "C:\\Users\\Gaukhar\\Source\\Repos\\HarryPotterSquares\\HarryPotterSquares\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,13 @@
+C:\Users\Gaukhar\Source\Repos\HarryPotterSquares\HarryPotterSquares\bin\Debug\netcoreapp3.1\HarryPotterSquares.exe
+C:\Users\Gaukhar\Source\Repos\HarryPotterSquares\HarryPotterSquares\bin\Debug\netcoreapp3.1\HarryPotterSquares.deps.json
+C:\Users\Gaukhar\Source\Repos\HarryPotterSquares\HarryPotterSquares\bin\Debug\netcoreapp3.1\HarryPotterSquares.runtimeconfig.json
+C:\Users\Gaukhar\Source\Repos\HarryPotterSquares\HarryPotterSquares\bin\Debug\netcoreapp3.1\HarryPotterSquares.runtimeconfig.dev.json
+C:\Users\Gaukhar\Source\Repos\HarryPotterSquares\HarryPotterSquares\bin\Debug\netcoreapp3.1\HarryPotterSquares.dll
+C:\Users\Gaukhar\Source\Repos\HarryPotterSquares\HarryPotterSquares\bin\Debug\netcoreapp3.1\HarryPotterSquares.pdb
+C:\Users\Gaukhar\Source\Repos\HarryPotterSquares\HarryPotterSquares\obj\Debug\netcoreapp3.1\HarryPotterSquares.csprojAssemblyReference.cache
+C:\Users\Gaukhar\Source\Repos\HarryPotterSquares\HarryPotterSquares\obj\Debug\netcoreapp3.1\HarryPotterSquares.AssemblyInfoInputs.cache
+C:\Users\Gaukhar\Source\Repos\HarryPotterSquares\HarryPotterSquares\obj\Debug\netcoreapp3.1\HarryPotterSquares.AssemblyInfo.cs
+C:\Users\Gaukhar\Source\Repos\HarryPotterSquares\HarryPotterSquares\obj\Debug\netcoreapp3.1\HarryPotterSquares.csproj.CoreCompileInputs.cache
+C:\Users\Gaukhar\Source\Repos\HarryPotterSquares\HarryPotterSquares\obj\Debug\netcoreapp3.1\HarryPotterSquares.dll
+C:\Users\Gaukhar\Source\Repos\HarryPotterSquares\HarryPotterSquares\obj\Debug\netcoreapp3.1\HarryPotterSquares.pdb
+C:\Users\Gaukhar\Source\Repos\HarryPotterSquares\HarryPotterSquares\obj\Debug\netcoreapp3.1\HarryPotterSquares.genruntimeconfig.cache
