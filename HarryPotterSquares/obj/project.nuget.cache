@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "oh9wwbh0gXRqwpzmsILczaokTSq/GdeTuCx/ekeea7/VJ8+hJWYXFmKWBxV7XvrqPwUx561tSPhAOuRcR2SP6Q==",
+  "dgSpecHash": "WsEkC+PIhmmsDfrQhtprAgVae8jPHjoPLFEeQQi/IpU5KVMDRYtkLI3X4UzIGmHi1a6bTDq7fVopfnZkRoXn1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gaukhar\\Source\\Repos\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\algorithms\\01. Квадратные заклинания\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaukhar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "C:\\Users\\Gaukhar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Gaukhar\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Gaukhar\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.9\\microsoft.netcore.app.host.win-x86.3.1.9.nupkg.sha512"
+  ],
   "logs": []
 }

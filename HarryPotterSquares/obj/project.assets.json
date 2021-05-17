@@ -8,21 +8,17 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Gaukhar\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Gaukhar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gaukhar\\Source\\Repos\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj",
+      "projectUniqueName": "D:\\algorithms\\01. Квадратные заклинания\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj",
       "projectName": "HarryPotterSquares",
-      "projectPath": "C:\\Users\\Gaukhar\\Source\\Repos\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj",
+      "projectPath": "D:\\algorithms\\01. Квадратные заклинания\\HarryPotterSquares\\HarryPotterSquares\\HarryPotterSquares.csproj",
       "packagesPath": "C:\\Users\\Gaukhar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gaukhar\\Source\\Repos\\HarryPotterSquares\\HarryPotterSquares\\obj\\",
+      "outputPath": "D:\\algorithms\\01. Квадратные заклинания\\HarryPotterSquares\\HarryPotterSquares\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\Gaukhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -60,12 +56,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.8, 3.1.8]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x86",
+            "version": "[3.1.9, 3.1.9]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
